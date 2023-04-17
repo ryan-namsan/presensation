@@ -7,12 +7,11 @@ size: 16:9
 backgroundColor: 'white'
 
 ---
-
+<!-- 수정했어용 -->
 <!-- _class: lead -->
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-## git으로 시작하는 기초부터 실무 협업
 ###### Ryan | 2023.04.17
 
 ![bg right:45% 70%](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
