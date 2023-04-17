@@ -11,7 +11,7 @@ backgroundColor: 'white'
 <!-- _class: lead -->
 <!-- _paginate: false -->
 <!-- _footer: "" -->
-
+<!-- _newStatement -->  
 ## git으로 시작하는 기초부터 실무 협업
 ###### Ryan | 2023.04.17
 
