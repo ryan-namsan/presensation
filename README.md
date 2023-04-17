@@ -1,4 +1,4 @@
 # presensation
 
--kimo
--yoohoo
+- kimo
+- yoohoo
