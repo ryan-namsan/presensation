@@ -99,8 +99,6 @@ backgroundColor: 'white'
     1. cmder 설치 (git 포함, linux 명령어 사용)
     2. git 홈페이지에서 배포판 받아 설치
 - `git --version` 으로 확인
-### Sourcetree 설치
-`https://www.sourcetreeapp.com/`
 
 ---
 # `git init`
@@ -220,6 +218,15 @@ git status
     - .git 디렉토리와 모든 버전 관리 정보가 삭제
     - Git 저장소에서 제거된 상태로 롤백
 ---
+# GUI 사용하기
+### Sourcetree 설치
+`https://www.sourcetreeapp.com/`
+### 실습
+- git add
+- git commit
+
+
+---
 
 
 <!-- _class: lead -->
@@ -234,6 +241,7 @@ git status
 - **Github 계정 만들기**
     - 사용자 이름, 이메일, 비밀번호 설정
     - 이메일 확인을 통한 계정 활성화
+    - `bit.ly/3o7um8r` 에 알려주기
 - **personal token 복붙**
     - Github -> Settings
     - 개발자 설정에서 Personal access tokens 클릭 (classic)
