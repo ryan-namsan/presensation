@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: true
 footer: "git/github으로 시작하는 기초부터 실무 협업"
-size: 16:9
+size: 16:9sdfsdf
 backgroundColor: 'white'
 
 ---
@@ -31,7 +31,7 @@ backgroundColor: 'white'
 - 컴퓨터에서 파일을 관리하는 방법 중 하나
 - 시간을 되돌리게 해줌
 - 여러 명이 서로 겹치지 않게 파일을 수정하게 해줌
-
+xczxczxczxvzzzzzz
 ---
 
 # 버전 관리란?
