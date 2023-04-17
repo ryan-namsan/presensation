@@ -23,6 +23,8 @@ backgroundColor: 'white'
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
+<!-- 주석 -->
+
 # 버전 관리와 Git
 
 ---
